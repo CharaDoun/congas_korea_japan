@@ -1,0 +1,45 @@
+#+TITLE: Congas Korea-Japan Volume II
+#+AUTHOR: Charalampos Dounis
+#+OPTIONS: num:nil
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+* Korea
+** Seoul (09/04/2025-11/04/2025)
+*** How to get there
+| Flight               | Departure | Time of Departure | Arrival   | Time of Arrival  | Duration |
+|----------------------+-----------+-------------------+-----------+------------------+----------|
+| Etihad Airways EY190 | Athens    | 14:05 08/04/2026  | Abu Dhabi | 19:40 08/04/2026 |    04:35 |
+|----------------------+-----------+-------------------+-----------+------------------+----------|
+| Etihad Airways EY822 | Abu Dhabi | 21:10 08/04/2026  | Seoul     | 10:45 09/04/2026 |    08:35 |
+|----------------------+-----------+-------------------+-----------+------------------+----------|
+
+*** Essentials before landing/after landing. [1/4]
+SCHEDULED: <2026-01-31 Sat>
+- [X] Valid Passport (at least 6 months before expiration)
+- [ ] Apply for [[https://www.k-eta.go.kr/portal/newapply/index.do][K-ETA]] (Visa Exemption). Cost: 10,000 KRW ($7-8). Needs to be done 72 hours before entry.
+- [ ] Purchase eSIM for Internet Connection. Recommended Carriers: [[https://roaming.kt.com/esim/eng/main.asp][Korea Telecom]], [[https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=kor&one-off=on&monthly=on&annual=on#][Ubigi]]. Cost: $10-25 depending on the plan. *Can be purchased at the airport as well!*
+- [ ] Install necessary apps:
+  - [ ] GPS: KakaoMap / Naver Map
+  - [ ] Translation: Papago
+- [ ] Money. Revolut seems to work on most global ATMs (mainly banks and not 7-11). Send Travel Notice to Revolut.
+  - [ ] Issue New Revolut Physical Card.
+- [ ] Maybe Discover Seoul Pass / Tmoney Card (Used to visit attractions pay for public transportation) [[https://www.reddit.com/r/koreatravel/comments/1oaj5b5/comparing_transit_cards_pros_and_cons_tmoney_ezl/][Detailed Info + Support for Iphone late 2025.]]
+
+
+*** Airport to Seoul
+1. *#Recommended#* Fastest method is the Express Arex Train to Seoul Station. Cost is around $8 (*Free with Discover Seoul Pass*)
+2. Bus for specific hotels or not in the center of Seoul.
+3. Taxi.
+4. Car Rental (not recommended).
+
+*** Accomodation
+**** Seoul
+1. [[https://www.airbnb.com/rooms/1437631996079045318?adults=3&check_in=2026-04-09&check_out=2026-04-11&search_mode=regular_search&source_impression_id=p3_1767524671_P3_r0nluLyKeupEC&previous_page_section_name=1000&federated_search_id=d4b24cb6-db53-4ea4-997a-869ec5b14963][Center of Seoul]]. 5 min walk from Seoul Station. 2 Bedroom. 100\euro{} each for 2 nights.
+
+**** Hongdae
+1. [[https://www.airbnb.com/rooms/1557754816359405376?adults=3&check_in=2026-04-09&check_out=2026-04-11&location=Seoul%2C%20South%20Korea&search_mode=regular_search&source_impression_id=p3_1767526365_P3lAD3DbSzr4XP3h&previous_page_section_name=1001&federated_search_id=848911a8-4e25-4851-9a28-211b199c5a93][Hanok Mood]]. 5 min walk from Hongdae Station. 2 Bedroom. 119\euro{} each for 2 nights.
+
+**** Sinchon
+Western Seoul. More traditional Korean vibe. Mellow vibe. Yonsei University.
+1. [[https://www.booking.com/hotel/kr/h-ebinyu-idaejeom.en-gb.html?aid=311984&label=h-ebinyu-idaejeom-oKaolRtllvc55X_2c20J%2AQS261038233369%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2395231936738%3Akwd-379239263640%3Alp9061576%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YbSsBl3MCvHsD8UKUHIRFxY&sid=ff732cdeb9b331fcd39a0671ac58e72f&age=0&all_sr_blocks=248300101_364253154_2_1_0&checkin=2026-04-09&checkout=2026-04-12&dest_id=-716583&dest_type=city&dist=0&group_adults=1&group_children=1&hapos=1&highlighted_blocks=248300101_364253154_2_1_0&hpos=1&matching_block_id=248300101_364253154_2_1_0&no_rooms=1&req_adults=1&req_age=0&req_children=1&room1=A%2C0&sb_price_type=total&sr_order=popularity&sr_pri_blocks=248300101_364253154_2_1_0__61230000&srepoch=1767526853&srpvid=800c91da686ec69db8d4f6a1b866fed1&type=total&ucfs=1&#_][H Avenue Hotel]]. 360\euro{} per couple for 2 nights.
+2. [[https://www.airbnb.com/rooms/1487348313102432136?adults=3&check_in=2026-04-09&check_out=2026-04-11&location=Seoul%2C%20South%20Korea&search_mode=regular_search&source_impression_id=p3_1767527154_P3RC52YvoCGR1SUg&previous_page_section_name=1001&federated_search_id=f458a90d-8095-4e44-a700-bb8bf318630c][Casa Amarilla]]. 6 minutes on foot from Exit 6 of Hongik University Station. 84\euro{} each for 2 nights.
