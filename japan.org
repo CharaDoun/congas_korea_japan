@@ -6,12 +6,11 @@
 * Korea
 ** Seoul (09/04/2025-11/04/2025)
 *** General Information
-- Weather
 | Weather | High T | Low T | Precipitation | Sunrise | Sunset |
 |---------+--------+-------+---------------+---------+--------|
 | April   | 17°    | 8°    |           20% |    5:50 | 19:30  |
 - Time difference: 7 hours ahead (GMT +9 hours)
-- Language: Korean
+- Language: [[https://www.youtube.com/watch?v=sx0yyQqkpqo&list=PLbFrQnW0BNMUkAFj4MjYauXBPtO3I9O_k][Korean]]
 - Currency: 1 KRW (Korean Won) = 0.00059euro (10,000 KRW ≈ €6)
 
 *** How to get there
@@ -22,31 +21,36 @@
 | Etihad Airways EY822 | Abu Dhabi | 21:10 08/04/2026  | Seoul     | 10:45 09/04/2026 |    08:35 |
 |----------------------+-----------+-------------------+-----------+------------------+----------|
 
-*** Essentials before landing/after landing. [1/4]
+*** TODO Essentials before landing/after landing. [1/6]
 SCHEDULED: <2026-01-31 Sat>
 - [X] Valid Passport (at least 6 months before expiration)
-- [ ] Apply for [[https://www.k-eta.go.kr/portal/newapply/index.do][K-ETA]] (Visa Exemption). Cost: 10,000 KRW (6€). Needs to be done 72 hours before entry.
+- [ ] =Optional= Apply for [[https://www.k-eta.go.kr/portal/newapply/index.do][K-ETA]](Visa Exemption). Not Needed till 2027 but allows for benefits like skipping the arrival card. Cost: 10,000 KRW (6€). Needs to be done at least 72 hours before entry.
 - [ ] Purchase eSIM for Internet Connection. Recommended Carriers: [[https://roaming.kt.com/esim/eng/main.asp][Korea Telecom]], [[https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=kor&one-off=on&monthly=on&annual=on#][Ubigi]]. Cost: 10-25€ depending on the plan. *Can be purchased at the airport as well!*
 - [ ] Install necessary apps:
   - [ ] GPS: KakaoMap / Naver Map
   - [ ] Translation: Papago
+  - [ ] Chatting: Kakao Talk (used mainly for reservations)
+  - [ ] Taxis: Kakao Taxi
 - [ ] Money. Revolut seems to work on most global ATMs (mainly banks and not 7-11). Send Travel Notice to Revolut.
   - [ ] Issue New Revolut Physical Card.
-- [ ] Maybe Discover Seoul Pass / Tmoney Card (Used to visit attractions pay for public transportation) [[https://www.reddit.com/r/koreatravel/comments/1oaj5b5/comparing_transit_cards_pros_and_cons_tmoney_ezl/][Detailed Info + Support for Iphone late 2025.]]
+- [ ] Issue WowPass for a cash free experience. One card for evertyhing. [[https://www.reddit.com/r/koreatravel/comments/1oaj5b5/comparing_transit_cards_pros_and_cons_tmoney_ezl/][Detailed Info on all cards + Support for Iphone late 2025.]]
 
 
 *** Airport to Seoul
-1. *#Recommended#* Fastest method is the Express Arex Train to Seoul Station. Cost is around 6€(*Free with Discover Seoul Pass*)
+1. =Recommended= Fastest method is the Express Arex Train to Seoul Station.
 2. Bus for specific hotels or not in the center of Seoul.
 3. Taxi.
 4. Car Rental (not recommended).
 
 *** Accomodation
 **** Seoul
+Best location. Close to everything. Seoul Station easy access by rail to Busan (KTX trains). Quite slummy, protests, even cult stands.
 1. [[https://www.airbnb.com/rooms/1437631996079045318?adults=3&check_in=2026-04-09&check_out=2026-04-11&search_mode=regular_search&source_impression_id=p3_1767524671_P3_r0nluLyKeupEC&previous_page_section_name=1000&federated_search_id=d4b24cb6-db53-4ea4-997a-869ec5b14963][Center of Seoul]]. 5 min walk from Seoul Station. 2 Bedroom. 100€ each for 2 nights.
 
 **** Hongdae
-1. [[https://www.airbnb.com/rooms/1557754816359405376?adults=3&check_in=2026-04-09&check_out=2026-04-11&location=Seoul%2C%20South%20Korea&search_mode=regular_search&source_impression_id=p3_1767526365_P3lAD3DbSzr4XP3h&previous_page_section_name=1001&federated_search_id=848911a8-4e25-4851-9a28-211b199c5a93][Hanok Mood]]. 5 min walk from Hongdae Station. 2 Bedroom. 119€ each for 2 nights.
+Northern Western Seoul. For young travelers. Different atmosphere day/night. Day: trending restaurants, café, clothing shops. Wild Night life ==> Maybe too noisy.
+1. [[https://www.booking.com/hotel/kr/romantic-and-spacious-duplex-hongik-stn-1minute.en-gb.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaFyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aqad48oGwAIB0gIkOGViYWM2NzMtYjVhYi00ZmNkLTkxODMtM2M1ZTk4M2RlZWNl2AIB4AIB&sid=ff732cdeb9b331fcd39a0671ac58e72f&checkin=2026-04-09&checkout=2026-04-11&dest_id=4462&dest_type=district&dist=0&do_availability_check=1&group_adults=3&group_children=0&hp_avform=1&hp_group_set=0&no_rooms=1&origin=hp&sb_price_type=total&src=hotel&type=total&#_][Duplex Hongik]].
+2. [[https://www.airbnb.com/rooms/1557754816359405376?adults=3&check_in=2026-04-09&check_out=2026-04-11&location=Seoul%2C%20South%20Korea&search_mode=regular_search&source_impression_id=p3_1767526365_P3lAD3DbSzr4XP3h&previous_page_section_name=1001&federated_search_id=848911a8-4e25-4851-9a28-211b199c5a93][Hanok Mood]]. 5 min walk from Hongdae Station. 2 Bedroom. 119€ each for 2 nights.
 
 **** Sinchon
 Western Seoul. More traditional Korean vibe. Mellow vibe. Yonsei University.
